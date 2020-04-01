@@ -1,3 +1,2 @@
-# name:StackingW
+# name:加权Stacking--StackingW
 # Copyright owner: Yang Senbin
-# 加权Stacking--StackingW
